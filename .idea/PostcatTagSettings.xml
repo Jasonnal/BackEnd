@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.api.postcat.settings.TagSettings">
+    <option name="apiType" value="api-type" />
+    <option name="groupName" value="group-name" />
+    <option name="hidden" value="hidden" />
+    <option name="intentionTag" value="//" />
+    <option name="method" value="method" />
+    <option name="name" value="name" />
+    <option name="path" value="path" />
+    <option name="remark" value="remark" />
+    <option name="requestType" value="request-type" />
+    <option name="required" value="required" />
+    <option name="rpcGroup" value="rpc-group" />
+    <option name="rpcVersion" value="rpc-version" />
+    <option name="url" value="url" />
+  </component>
+</project>

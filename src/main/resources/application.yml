@@ -1,0 +1,9 @@
+server:
+  port: 9080
+spring:
+  datasource:
+    url: jdbc:mysql://${ip}:3306/room_manager
+    username: root
+    password: leiyufeng666
+
+ip: localhost
